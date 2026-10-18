@@ -1,3 +1,17 @@
+🌐 Follow Korn Xi
+
+ติดตามข่าวสาร ผลงานใหม่ เทคนิคการแก้ปัญหา และการปรับแต่ง Bliss OS ได้ผ่านช่องทางของ Korn Xi
+
+- 💻 GitHub — Bliss OS Fixes & Tweaks:
+  https://github.com/kornnextofficial-byte/-Bliss-OS-Fixes-Tweaks-
+
+- 📘 Facebook — Korn Xi:
+  https://www.facebook.com/share/1PB7Mfg85c/
+
+⭐ หากโปรเจกต์นี้มีประโยชน์ อย่าลืมกด Star บน GitHub เพื่อสนับสนุนการพัฒนาและติดตามการอัปเดต
+
+Korn Xi — Fixing Problems, Sharing Knowledge.
+
 ⚡ Bliss OS Fixes & Tweaks
 
 By Korn Xi
